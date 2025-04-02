@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-data-viz/static/css/main.9c8025fb.css",
+    "main.js": "/react-data-viz/static/js/main.3f3e57fc.js",
+    "index.html": "/react-data-viz/index.html",
+    "main.9c8025fb.css.map": "/react-data-viz/static/css/main.9c8025fb.css.map",
+    "main.3f3e57fc.js.map": "/react-data-viz/static/js/main.3f3e57fc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c8025fb.css",
+    "static/js/main.3f3e57fc.js"
+  ]
+}
